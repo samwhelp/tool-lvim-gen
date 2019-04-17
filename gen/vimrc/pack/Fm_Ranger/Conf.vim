@@ -8,6 +8,7 @@ function! s:ConfFm_Ranger () abort
 
 
 	nnoremap <Space>er :Ranger<CR>
+	"nnoremap ,f :Ranger<CR>
 
 
 endfunction
