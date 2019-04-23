@@ -18,7 +18,7 @@ function! s:ColorSchemePlug () abort
 	Plug 'morhetz/gruvbox'
 
 	" ## https://github.com/joshdick/onedark.vim
-	"Plug 'joshdick/onedark.vim'
+	Plug 'joshdick/onedark.vim'
 
 endfunction
 
