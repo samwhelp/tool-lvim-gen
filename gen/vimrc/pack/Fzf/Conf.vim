@@ -22,8 +22,9 @@ function! s:ConfFzf () abort
 	nnoremap <Space>ff :Files<CR>
 	nnoremap <Space>f? :Files<Space>
 	nnoremap <Space>fm :Marks<CR>
-	nnoremap <Space>fb :BLines<CR>
+	nnoremap <Space>fb :Buffers<CR>
 	nnoremap <Space>fl :Lines<CR>
+	nnoremap <Space>fo :BLines<CR>
 	nnoremap <Space>fa :Ag<CR>
 
 	nnoremap <Space>tc :Colors<CR>
