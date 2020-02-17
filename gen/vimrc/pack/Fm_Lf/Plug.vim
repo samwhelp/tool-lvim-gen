@@ -17,7 +17,7 @@ function! s:PlugFm_Lf () abort
 	" Notice
 	" Install lf first
 	" https://github.com/gokcehan/lf/releases
-	
+
 
 	" Or Use
 	" https://github.com/gokcehan/lf/blob/master/etc/lf.vim
