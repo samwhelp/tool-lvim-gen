@@ -191,7 +191,8 @@ lvim_build_all () {
 }
 
 lvim_build_vimrc () {
-	lvim_build_all "init.vim"
+	#lvim_build_all "init.vim"
+	lvim_build_all "vimrc"
 }
 
 ##
