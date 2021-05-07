@@ -6,7 +6,8 @@
 
 function! s:ConfNerdTree () abort
 
-	nnoremap ,t :NERDTreeToggle<cr>
+	nnoremap ,t :NERDTreeToggle<CR>
+	nnoremap <Space>et :NERDTreeToggle<CR>
 
 endfunction
 

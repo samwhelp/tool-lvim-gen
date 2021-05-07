@@ -7,7 +7,7 @@
 function! s:ConfFm_Lf () abort
 
 
-	nnoremap <Space>er :Lf<CR>
+	nnoremap <Space>el :Lf<CR>
 	nnoremap ,f :Lf<CR>
 
 
